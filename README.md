@@ -1,4 +1,4 @@
-# GoChallenge
+# go-cli
 
 O projeto tem como objetivo desenvolver os meus conhecimentos em Golang, o programa é uma CLI que permite acessar diretórios e arquivos e alterar, apagar ou criar novos arquivos.
 
